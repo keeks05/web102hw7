@@ -27,8 +27,13 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+Create form that allows users to add characters
 <img src='https://i.imgur.com/fe9400U.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Character Summary and Character Edit/Update
 <img src='https://i.imgur.com/K7PBJHN.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+Character Delete
 <img src='https://i.imgur.com/2NoaE2z.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
