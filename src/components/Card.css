@@ -1,0 +1,32 @@
+.Card {
+   background-color: grey;
+   border-radius: 20px;
+   border: 1px solid white;
+   width: 250px;
+   text-align: center;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-right: 10px;
+   text-decoration: none;
+}
+
+.name {
+   color: white;
+   padding-left: 30px;
+   font-size: 24px;
+   text-decoration: none
+}
+
+.age {
+   color: white;
+   padding-left: 30px;
+   font-size: 24px;
+   text-decoration: none
+}
+
+.primary_skill {
+   color: white;
+   padding-left: 30px;
+   font-size: 24px;
+   text-decoration: none
+}

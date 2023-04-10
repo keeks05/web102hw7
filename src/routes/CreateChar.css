@@ -1,0 +1,45 @@
+.create {
+   position: relative;
+   top: -70px;
+}
+
+#name, #age {
+   margin-left: 20px;
+   font-size: 20px;
+}
+
+label, p  {
+   font-size: 24px;
+   font-weight: 800;
+}
+
+input {
+   color: black;
+}
+
+.wrapper {
+   font-size: 20px;
+   background-color: grey;
+   border-radius: 20px;
+}
+
+.wrapper-name {
+   background-color: grey;
+   width: fit-content;
+   padding: 15px;
+   margin: 15px;
+}
+
+.header {
+   margin-top: 50px;
+}
+
+#submit {
+   background-color: lightgreen;
+   width: 200px;
+   padding: 10px;
+   font-size: 30px;
+   margin-top: 20px;
+   font-weight: 800;
+   border-radius: 20px;
+}
